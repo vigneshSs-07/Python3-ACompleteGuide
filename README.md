@@ -27,3 +27,6 @@
 * https://www.mygreatlearning.com/blog/python-interview-questions/
 
 
+***Parse JSON to dataframe***
+
+* https://www.youtube.com/watch?v=FVECTpahzCQ
