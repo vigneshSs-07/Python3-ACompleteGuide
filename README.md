@@ -3,6 +3,11 @@
 
 #Important links for competitive programming
 
+***mastering-python***
+
+1. https://github.com/itversity/mastering-python
+2. https://python.itversity.com/mastering-python.html
+
 ***NumPy***
 
 1. https://numpy.org/doc/stable/reference/index.html
