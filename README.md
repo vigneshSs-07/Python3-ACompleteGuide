@@ -13,6 +13,9 @@
 1. https://numpy.org/doc/stable/reference/index.html
 2. https://www.w3resource.com/python-exercises/numpy/index.php
 
+***Basics of Programming using Python***
+
+1. https://github.com/dgadiraju/itversity-books/tree/master/Data%20Engineering%20Bootcamp/30%20Basics%20of%20Programming%20using%20Python
 
 ***Arrays in Python***
 
